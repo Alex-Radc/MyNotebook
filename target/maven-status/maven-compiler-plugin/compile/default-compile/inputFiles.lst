@@ -1,0 +1,8 @@
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/service/UserService.java
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/dao/UserDAO.java
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/aspect/MyLoggingAspect.java
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/service/UserServiceImpl.java
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/controller/MyController.java
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/logger/LogClass.java
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/dao/UserDAOImpl.java
+/home/alexra/IdeaProjects/MyNotebook/src/main/java/com/alexra/my_notebook/entity/User.java
