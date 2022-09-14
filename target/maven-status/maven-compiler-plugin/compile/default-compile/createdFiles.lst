@@ -1,7 +1,0 @@
-com/alexra/my_notebook/dao/UserDAOImpl.class
-com/alexra/my_notebook/dao/UserDAO.class
-com/alexra/my_notebook/aspect/MyLoggingAspect.class
-com/alexra/my_notebook/service/UserService.class
-com/alexra/my_notebook/controller/MyController.class
-com/alexra/my_notebook/entity/User.class
-com/alexra/my_notebook/service/UserServiceImpl.class
